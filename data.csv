@@ -1,0 +1,1126 @@
+Concept,paragraph,definitions,similarity,Verbe,noed_connected,key_list
+plan risk management,"plan risk management be the process of define how to conduct risk management activity for a project . the key 
+ benefit of this process be that it ensure that the degree , type , and visibility of risk management be proportionate to both 
+ risk and the importance of the project to the organization and other stakeholder . this process be perform once or 
+ at predefine point in the project . the input , tool and technique , and output of the process be depict in figure 
+ 11 - 2 . figure 11 - 3 depict the data flow diagram for the process . 
+ plan risk management 
+ input 
+ figure 11 - 2 . plan risk management : input , tool & technique , and output 
+  
+ charter 
+ figure 11 - 3 . plan risk management : datum flow diagram 
+ the plan risk management process should begin when a project be conceive and should be complete early in the 
+ project . it may be necessary to revisit this process later in the project life cycle , for example at a major phase change , or 
+ if the project scope change significantly , or if a subsequent review of risk management effectiveness determine that 
+ the project risk management process require modification . 
+ ",how to conduct risk management activity for a project,"['risk management plan', 'plan risk response']",be,"['risk management plan', 'project management plan', 'project management plan']","['risk', 'management', 'plan', 'process', 'stakeholder']"
+project charter,"describe in section 4.1.3.1 . the project charter document the high - level project description and boundary , high- 
+ level requirement , and risk . 
+ ",high - level project description and boundary,[],document,"['project document', 'project document', 'project document']","['charter', 'section', 'description', 'project', 'requirement']"
+project management plan,"describe in section 4.2.3.1 . in planning project risk management , all approve subsidiary management plan 
+ should be take into consideration in order to make the risk management plan consistent with they . the methodology 
+ outline in other project management plan component might influence the plan risk management process . 
+ ",subsidiary management plan,"['project management plan', 'project management plan', 'project management plan', 'project management plan', 'project management plan update', 'project management plan', 'project management plan', 'project management plan update']",planning,"['risk management plan', 'project management plan', 'project management plan']","['risk', 'outline', 'planning', 'subsidiary', 'plan']"
+project document,"project document that can be consider as input for this process include but be not limit to the stakeholder 
+ register as describe in section 13.1.3.1 . the stakeholder register contain detail of the project ’s stakeholder and 
+ provide an overview of their project role and their attitude toward risk on this project . this be useful in determine 
+ role and responsibility for manage risk on the project , as well as set risk threshold for the project . 
+ ",stakeholder,"['project document', 'project document update', 'project document', 'project document update', 'project document', 'project document update', 'project document', 'project document update', 'project document', 'project document update', 'project document', 'project document update']",be,"['project document', 'project document', 'project document']","['stakeholder', 'risk', 'responsibility', 'overview', 'document']"
+enterprise environmental factor,"the enterprise environmental factor that can influence the plan risk management process include but be not 
+ limit to overall risk threshold set by the organization or key stakeholder . 
+ ",overall risk threshold set by the organization or key stakeholder,"['enterprise environmental factor', 'enterprise environmental factor', 'enterprise environmental factor', 'enterprise environmental factor']",influence,"['enterprise environmental factor', 'enterprise environmental factor', 'enterprise environmental factor']","['risk', 'environmental', 'enterprise', 'stakeholder', 'management']"
+organizational process asset,"the organizational process asset that can influence the plan risk management process include but be not 
+ limit to : 
+  organizational risk policy ; 
+  risk category , possibly organize into a risk breakdown structure ; 
+  common definition of risk concept and term ; 
+  risk statement format ; 
+  template for the risk management plan , risk register , and risk report ; 
+  role and responsibility ; 
+  authority level for decision making ; and 
+  lesson learn repository from previous similar project . 
+ ",organizational risk policy,"['organizational process asset', 'organizational process asset', 'organizational process asset', 'organizational process asset', 'organizational process asset']",influence,"['risk management plan', 'organizational process asset', 'organizational process asset']","['risk', 'management', 'organizational', 'process', 'asset']"
+expert judgment,"describe in section 4.1.2.1 . expertise should be consider from individual or group with specialized knowledge 
+ or training in the follow topic : 
+  familiarity with the organization ’s approach to manage risk , include enterprise risk management where this 
+ be perform ; 
+  tailor risk management to the specific need of a project ; and 
+  type of risk that be likely to be encounter on project in the same area . 
+ ",familiarity with the organization ’s approach to manage risk,"['expert judgment', 'expert judgment', 'expert judgment', 'expert judgment', 'expert judgment']",be,"['risk management plan', 'project management plan', 'project management plan']","['expertise', 'risk', 'manage', 'management', 'enterprise']"
+data analysis,"datum analysis technique that can be use for this process include but be not limit to a stakeholder analysis 
+ ( section 13.1.2.3 ) to determine the risk appetite of project stakeholder . 
+ ",stakeholder analysis,['data analysis'],be,"['datum analysis', 'datum analysis', 'datum analysis']","['stakeholder', 'datum', 'analysis', 'risk', 'project']"
+meeting,"the risk management plan may be develop as part of the project kick - off meeting or a specific planning meeting 
+ may be hold . attendee may include the project manager , select project team member , key stakeholder , or team 
+ member who be responsible to manage the risk management process on the project . other outside the organization 
+ may also be invite , as need , include customer , seller , and regulator . a skilled facilitator can help participant 
+ remain focused on the task , agree on key aspect of the risk approach , identify and overcome source of bias , and 
+ resolve any disagreement that may arise . 
+ plan for conduct risk management activity be define in these meeting and document in the risk 
+ management plan ( see section","
+ plan for conduct risk management activity","['meeting', 'meeting', 'meeting']",be,"['meeting', 'meeting', 'meeting']","['risk', 'planning', 'management', 'manage', 'facilitator']"
+risk management plan,"the risk management plan be a component of the project management plan that describe how risk management 
+ activity will be structure and perform . the risk management plan may include some or all of the follow element : 
+  risk strategy . describe the general approach to manage risk on this project . 
+  methodology . define the specific approach , tool , and datum source that will be use to perform risk 
+ management on the project . 
+  role and responsibility . define the lead , support , and risk management team member for each type of 
+ activity describe in the risk management plan , and clarify their responsibility . 
+  funding . identify the fund need to perform activity relate to project risk management . establishe 
+ protocol for the application of contingency and management reserve . 
+  timing . define when and how often the project risk management process will be perform throughout the 
+ project life cycle , and establish risk management activity for inclusion into the project schedule . 
+  risk category . provide a means for group individual project risk . a common way to structure risk category 
+ be with a risk breakdown structure ( rbs ) , which be a hierarchical representation of potential source of risk ( see 
+ example in figure 11 - 4 ) . an rbs help the project team consider the full range of source from which individual 
+ project risk may arise . this can be useful when identify risk or when categorize identify risk . the 
+ organization may have a generic rbs to be use for all project , or there may be several rbs framework for 
+ different type of project , or the project may develop a tailor rbs . where an rbs be not use , an organization 
+ may use a custom risk categorization framework , which may take the form of a simple list of category or a 
+ structure base on project objective . 
+ figure 11 - 4 . extract from sample risk breakdown structure ( rbs ) 
+  stakeholder risk appetite . the risk appetite of key stakeholder on the project be record in the risk 
+ management plan , as they inform the detail of the plan risk management process . in particular , stakeholder risk 
+ appetite should be express as measurable risk threshold around each project objective . these threshold will 
+ determine the acceptable level of overall project risk exposure , and they be also use to inform the definition of 
+ probability and impact to be use when assess and prioritize individual project risk . 
+  definition of risk probability and impact . definition of risk probability and impact level be specific to the 
+ project context and reflect the risk appetite and threshold of the organization and key stakeholder . the project 
+ may generate specific definition of probability and impact level or it may start with general definition provide 
+ by the organization . the number of level reflect the degree of detail require for the project risk management 
+ process , with more level use for a more detailed risk approach ( typically five level ) , and few for a simple 
+ process ( usually three ) . table 11 - 1 provide an example of definition of probability and impact against three 
+ project objective . these scale can be use to evaluate both threat and opportunity by interpret the impact 
+ definition as negative for threat ( delay , additional cost , and performance shortfall ) and positive for opportunity 
+ ( reduce time or cost , and performance enhancement ) . 
+ table 11 - 1 . example of definition for probability and impact 
+  probability and impact matrix . describe in section 11.3.2.6 . prioritization rule may be specify by the 
+ organization in advance of the project and be include in organizational process asset , or they may be tailor to 
+ the specific project . opportunity and threat be represent in a common probability and impact matrix use 
+ positive definition of impact for opportunity and negative impact definition for threat . descriptive term 
+ ( such as very high , high , medium , low , and very low ) or numeric value can be use for probability and impact . 
+ where numeric value be use , these can be multiply to give a probability - impact score for each risk , which 
+ allow the relative priority of individual risk to be evaluate within each priority level . an example probability and 
+ impact matrix be present in figure 11 - 5 , which also show a possible numeric risk scoring scheme . 
+ figure 11 - 5 . example probability and impact matrix with scoring scheme 
+  reporting format . reporting format define how the outcome of the project risk management process will 
+ be document , analyze , and communicate . this section of the risk management plan describe the content 
+ and format of the risk register and the risk report , as well as any other require output from the project risk 
+ management process . 
+  track . track document how risk activity will be record and how risk management process will 
+ be audit . 
+ ",risk strategy,"['plan risk management', 'plan risk response']",be,"['risk management plan', 'project management plan', 'project management plan']","['risk', 'management', 'stakeholder', 'threat', 'methodology']"
+identify risk,"identify risk be the process of identify individual project risk as well as source of overall project risk , and 
+ document their characteristic . the key benefit of this process be the documentation of exist individual project risk 
+ and the source of overall project risk . it also bring together information so the project team can respond appropriately 
+ to identify risk . this process be perform throughout the project . the input , tool and technique , and output of the 
+ process be depict in figure 11 - 6 . figure 11 - 7 depict the data flow diagram for the process . 
+ identify risk 
+ input output 
+ figure 11 - 6 . identify risk : input , tool & technique , and output 
+ figure 11 - 7 . identify risk : datum flow diagram 
+ identify risk consider both individual project risk and source of overall project risk . participant in risk 
+ identification activity may include the follow : project manager , project team member , project risk specialist 
+ ( if assign ) , customer , subject matter expert from outside the project team , end user , other project manager , 
+ operation manager , stakeholder , and risk management expert within the organization . while these personnel be 
+ often key participant for risk identification , all project stakeholder should be encourage to identify individual project 
+ risk . it be particularly important to involve the project team so they can develop and maintain a sense of ownership and 
+ responsibility for identify individual project risk , the level of overall project risk , and associate risk response action . 
+ when describe and record individual project risk , a consistent format should be use for risk statement to 
+ ensure that each risk be understand clearly and unambiguously in order to support effective analysis and risk response 
+ development . risk owner for individual project risk may be nominate as part of the identify risk process , and will 
+ be confirm during the perform qualitative risk analysis process . preliminary risk response may also be identify 
+ and record and will be review and confirm as part of the plan risk response process . 
+ identify risk be an iterative process , since new individual project risk may emerge as the project progress through 
+ its life cycle and the level of overall project risk will also change . the frequency of iteration and participation in each risk 
+ identification cycle will vary by situation , and this will be define in the risk management plan . 
+ ",individual project risk,['risk report'],be,"['strategy for overall project risk', 'plan risk response', 'plan risk management']","['risk', 'stakeholder', 'project', 'development', 'responsibility']"
+project management plan,"describe in section 4.2.3.1 . project management plan component include but be not limit to : 
+  requirement management plan . describe in section 5.1.3.2 . the requirement management plan may 
+ indicate project objective that be particularly at risk . 
+  schedule management plan . describe in section 6.1.3.1 . the schedule management plan may identify area 
+ that be subject to uncertainty or ambiguity . 
+  cost management plan . describe in section 7.1.3.1 . the cost management plan may identify area that be 
+ subject to uncertainty or ambiguity . 
+  quality management plan . describe in section 8.1.3.1 . the quality management plan may identify area that 
+ be subject to uncertainty or ambiguity , or where key assumption have be make that might give rise to risk . 
+  resource management plan . describe in section 9.1.3.1 . the resource management plan may identify 
+ area that be subject to uncertainty or ambiguity , or where key assumption have be make that might give 
+ rise to risk . 
+  risk management plan . describe in section 11.1.3.1 . the risk management plan provide information on risk- 
+ relate role and responsibility , indicate how risk management activity be include in the budget and 
+ schedule , and describe category of risk , which may be express as a risk breakdown structure ( figure 11 - 4 ) . 
+  scope baseline . describe in section 5.4.3.1 . the scope baseline include deliverable and criterion for their 
+ acceptance , some of which might give rise to risk . it also contain the wb , which can be use as a framework 
+ to structure risk identification technique . 
+  schedule baseline . describe in section 6.5.3.1 . the schedule baseline may be review to identify milestone 
+ and deliverable due date that be subject to uncertainty or ambiguity , or where key assumption have be 
+ make that might give rise to risk . 
+  cost baseline . describe in section 7.3.3.1 . the cost baseline may be review to identify cost or funding 
+ requirement that be subject to uncertainty or ambiguity , or where key assumption have be make that might 
+ give rise to risk . 
+ ",requirement management plan,"['project management plan', 'project management plan', 'project management plan', 'project management plan', 'project management plan update', 'project management plan', 'project management plan', 'project management plan update']",be,"['risk management plan', 'project management plan', 'project management plan']","['risk', 'ambiguity', 'management', 'plan', 'uncertainty']"
+project document,"project document that can be consider as input for this process include but be not limit to : 
+  assumption log . describe in section 4.1.3.2 . assumption and constraint record in the assumption log may 
+ give rise to individual project risk and may also influence the level of overall project risk . 
+  cost estimate . describe in section 7.2.3.1 . cost estimate provide quantitative assessment of project cost , 
+ ideally express as a range , indicate the degree of risk , where a structured review of the document may 
+ indicate that the current estimate be insufficient and pose a risk to the project . 
+  duration estimate . describe in section 6.4.3.1 . duration estimate provide quantitative assessment of 
+ project duration , ideally express as a range , indicate the degree of risk , where a structured review of the 
+ document may indicate that the current estimate be insufficient and pose a risk to the project . 
+  issue log . describe in section 4.3.3.3 . issue record in the issue log may give rise to individual project risk 
+ and may also influence the level of overall project risk . 
+  lesson learn register . describe in section 4.4.3.1 . lesson learn about risk identify from early phase 
+ of the project be review to determine whether similar risk might recur during the remainder of the project . 
+  requirement documentation . describe in section 5.2.3.1 . requirement documentation list the project 
+ requirement and allow the team to identify those that could be at risk . 
+  resource requirement . describe in section 9.2.3.1 . resource requirement provide quantitative 
+ assessment of project resource requirement , ideally express as a range , indicate the degree of risk , 
+ where a structured review of the document may indicate that the current estimate be insufficient and pose 
+ a risk to the project . 
+  stakeholder register . describe in section 13.1.3.1 . the stakeholder register indicate which individual or 
+ group might participate in identify risk to the project . it also detail those individual who be available to 
+ act as risk owner . 
+ ",assumption log,"['project document', 'project document update', 'project document', 'project document update', 'project document', 'project document update', 'project document', 'project document update', 'project document', 'project document update', 'project document', 'project document update']",be,"['project document', 'project document', 'project document']","['documentation', 'estimate', 'duration', 'assessment', 'project']"
+agreement,"describe in section 12.2.3.2 . if the project require external procurement of resource , the agreement may have 
+ information such as milestone date , contract type , acceptance criterion , and award and penalty that can present 
+ threat or opportunity . 
+ ","milestone date , contract type , acceptance criterion , and award and penalty",[],require,"['procurement documentation', 'strategy for threat', 'strategy for opportunity']","['procurement', 'contract', 'resource', 'milestone', 'agreement']"
+procurement documentation,"describe in section 12.3.1.4 . if the project require external procurement of resource , the initial procurement 
+ documentation should be review as procure good and service from outside the organization may increase or 
+ decrease overall project risk and may introduce additional individual project risk . as the procurement documentation 
+ be update throughout the project , the most up to date documentation can be review for risk . for example , seller 
+ performance report , approve change request and information on inspection . 
+ ",procure good and service from outside the organization,[],be,"['change request', 'change request', 'change request']","['documentation', 'procurement', 'inspection', 'resource', 'procure']"
+enterprise environmental factor,"the enterprise environmental factor that can influence the identify risk process include but be not limit to : 
+  publish material , include commercial risk database or checklist , 
+  academic study , 
+  benchmarke result , and 
+  industry study of similar project . 
+ ",publish material,"['enterprise environmental factor', 'enterprise environmental factor', 'enterprise environmental factor', 'enterprise environmental factor']",include,"['enterprise environmental factor', 'enterprise environmental factor', 'enterprise environmental factor']","['risk', 'environmental', 'enterprise', 'influence', 'industry']"
+organizational process asset,"the organizational process asset that can influence the identify risk process include but be not limit to : 
+  project file , include actual datum , 
+  organizational and project process control , 
+  risk statement format , and 
+  checklist from previous similar project . 
+ ",project file,"['organizational process asset', 'organizational process asset', 'organizational process asset', 'organizational process asset', 'organizational process asset']",include,"['organizational process asset', 'organizational process asset', 'organizational process asset']","['risk', 'asset', 'process', 'organizational', 'project']"
+expert judgment,"describe in section 4.1.2.1 . expertise should be consider from individual or group with specialized knowledge 
+ of similar project or business area . such expert should be identify by the project manager and invite to consider 
+ all aspect of individual project risk as well as source of overall project risk , base on their previous experience and 
+ area of expertise . the expert ’ bias should be take into account in this process . 
+ ",expert ’ bias,"['expert judgment', 'expert judgment', 'expert judgment', 'expert judgment', 'expert judgment']",be,"['expert judgment', 'expert judgment', 'expert judgment']","['expertise', 'expert', 'knowledge', 'risk', 'project']"
+datum gathering,"data - gather technique that can be use for this process include but be not limit to : 
+  brainstorming . the goal of brainstorming ( see section 4.1.2.2 ) be to obtain a comprehensive list of individual 
+ project risk and source of overall project risk . the project team usually perform brainstorming , often with 
+ a multidisciplinary set of expert who be not part of the team . idea be generate under the guidance of a 
+ facilitator , either in a free - form brainstorm session or one that use more structured technique . category of 
+ risk , such as in a risk breakdown structure , can be use as a framework . particular attention should be pay to 
+ ensure that risk identify through brainstorming be clearly describe , since the technique can result in idea 
+ that be not fully form . 
+  checklist . a checklist be a list of item , action , or point to be consider . it be often use as a reminder . 
+ risk checklist be develop base on historical information and knowledge that have be accumulate from 
+ similar project and from other source of information . they be an effective way to capture lesson learn 
+ from similar complete project , list specific individual project risk that have occur previously and that 
+ may be relevant to this project . the organization may maintain a risk checklist base on its own complete 
+ project or may use generic risk checklist from the industry . while a checklist may be quick and simple to use , 
+ it be impossible to build an exhaustive one , and care should be take to ensure the checklist be not use to avoid 
+ the effort of proper risk identification . the project team should also explore item that do not appear on the 
+ checklist . additionally , the checklist should be review from time to time to update new information as well as 
+ remove or archive obsolete information . 
+  interview . individual project risk and source of overall project risk can be identify by interview experienced 
+ project participant , stakeholder , and subject matter expert . interview ( see section 5.2.2.2 ) should be 
+ conduct in an environment of trust and confidentiality to encourage honest and unbiased contribution . 
+ ",brainstorming,"['datum gathering', 'datum gathering', 'datum gathering']",be,"['strategy for overall project risk', 'project management information system ( pmis )', 'project document update']","['brainstorming', 'brainstorm', 'risk', 'project', 'checklist']"
+datum analysis,"datum analysis technique that can be use for this process include but be not limit to : 
+  root cause analysis . root cause analysis ( see section 8.2.2.2 ) be typically use to discover the underlie 
+ cause that lead to a problem , and develop preventive action . it can be use to identify threat by start with a 
+ problem statement ( for example , the project might be delay or over budget ) and explore which threat might 
+ result in that problem occur . the same technique can be use to find opportunity by start with a benefit 
+ statement ( for example , early delivery or under budget ) and explore which opportunity might result in that 
+ benefit be realize . 
+  assumption and constraint analysis . every project and its project management plan be conceive 
+ and develop base on a set of assumption and within a series of constraint . these be often already 
+ incorporate in the scope baseline and project estimate . assumption and constraint analysis explore the 
+ validity of assumption and constraint to determine which pose a risk to the project . threat may be identify 
+ from the inaccuracy , instability , inconsistency , or incompleteness of assumption . constraint may give rise to 
+ opportunity through remove or relax a limit factor that affect the execution of a project or process . 
+  swot analysis . this technique examine the project from each of the strength , weakness , opportunity , 
+ and threat ( swot ) perspective . for risk identification , it be use to increase the breadth of identify risk by 
+ include internally generate risk . the technique start with the identification of strength and weakness 
+ of the organization , focus on either the project , organization , or the business area in general . swot analysis 
+ then identify any opportunity for the project that may arise from strength , and any threat result from 
+ weakness . the analysis also examine the degree to which organizational strength may offset threat and 
+ determine if weakness might hinder opportunity . 
+  document analysis . describe in section 5.2.2.3 . risk may be identify from a structured review of project 
+ document , include , but not limit to , plan , assumption , constraint , previous project file , contract , 
+ agreement , and technical documentation . uncertainty or ambiguity in project document , as well as 
+ inconsistency within a document or between different document , may be indicator of risk on the project . 
+ ",root cause analysis,"['datum analysis', 'datum analysis', 'datum analysis']",be,"['project document', 'project document', 'project document']","['analysis', 'constraint', 'project', 'risk', 'management']"
+interpersonal and team skill,"interpersonal and team skill that can be use for this process include but be not limit to facilitation ( see section 
+ 4.1.2.3 ) . facilitation improve the effectiveness of many of the technique use to identify individual project risk and 
+ source of overall project risk . a skilled facilitator can help participant remain focused on the risk identification task , 
+ follow the method associate with the technique accurately , ensure clear risk description , identify and overcome 
+ source of bias , and resolve any disagreement that may arise . 
+ ",facilitation,"['interpersonal and team skill', 'interpersonal and team skill', 'interpersonal and team skill', 'interpersonal and team skill']",be,"['interpersonal and team skill', 'interpersonal and team skill', 'interpersonal and team skill']","['facilitation', 'facilitator', 'risk', 'skill', 'skilled']"
+prompt list,"a prompt list be a predetermined list of risk category that might give rise to individual project risk and that could also 
+ act as source of overall project risk . the prompt list can be use as a framework to aid the project team in idea generation 
+ when use risk identification technique . the risk category in the low level of the risk breakdown structure can be 
+ use as a prompt list for individual project risk . some common strategic framework be more suitable for identify 
+ source of overall project risk , for example pestle ( political , economic , social , technological , legal , environmental ) , tecop 
+ ( technical , environmental , commercial , operational , political ) , or vuca ( volatility , uncertainty , complexity , ambiguity ) . 
+ ",a predetermined list of risk category that might give rise to individual project risk,[],be,"['strategy for overall project risk', 'identify risk', 'enterprise environmental factor']","['risk', 'prompt', 'list', 'strategic', 'predetermined']"
+meeting,"to undertake risk identification , the project team may conduct a specialized meeting ( often call a risk workshop ) . 
+ most risk workshop include some form of brainstorming ( see section 4.1.2.2 ) , but other risk identification technique 
+ may be include depend on the level of the risk process define in the risk management plan . use of a skilled 
+ facilitator will increase the effectiveness of the meeting . it be also essential to ensure that the right people participate in 
+ the risk workshop . on large project , it may be appropriate to invite the project sponsor , subject matter expert , seller , 
+ representative of the customer , or other project stakeholder . risk workshop for small project may be restrict to 
+ a subset of the project team . 
+ ",risk workshop,"['meeting', 'meeting', 'meeting']",be,"['meeting', 'meeting', 'meeting']","['risk', 'workshop', 'brainstorming', 'stakeholder', 'project']"
+risk register,"the risk register capture detail of identify individual project risk . the result of perform qualitative risk analysis , 
+ plan risk response , implement risk response , and monitor risk be record in the risk register as those process 
+ be conduct throughout the project . the risk register may contain limited or extensive risk information depend on 
+ project variable such as size and complexity . 
+ on completion of the identify risk process , the content of the risk register may include but be not limit to : 
+  list of identify risk . each individual project risk be give a unique identifier in the risk register . identify risk 
+ be describe in as much detail as require to ensure unambiguous understanding . a structured risk statement 
+ may be use to distinguish risk from their cause(s ) and their effect(s ) . 
+  potential risk owner . where a potential risk owner have be identify during the identify risk process , the 
+ risk owner be record in the risk register . this will be confirm during the perform qualitative risk analysis 
+ process . 
+  list of potential risk response . where a potential risk response have be identify during the identify risk 
+ process , it be record in the risk register . this will be confirm during the plan risk response process . 
+ additional datum may be record for each identify risk , depend on the risk register format specify in the risk 
+ management plan . this may include : a short risk title , risk category , current risk status , one or more cause , one or 
+ more effect on objective , risk trigger ( event or condition that indicate that a risk be about to occur ) , wb reference 
+ of affected activity , and time information ( when be the risk identify , when might the risk occur , when might it no 
+ long be relevant , and what be the deadline for take action ) . 
+ ",management plan,[],be,"['risk register', 'plan risk response', 'plan risk management']","['risk', 'identifier', 'register', 'analysis', 'qualitative']"
+risk report,"the risk report present information on source of overall project risk , together with summary information on identify 
+ individual project risk . the risk report be develop progressively throughout the project risk management process . the 
+ result of perform qualitative risk analysis , perform quantitative risk analysis , plan risk response , implement risk 
+ response , and monitor risk be also include in the risk report as those process be complete . on completion of 
+ the identify risk process , information in the risk report may include but be not limit to : 
+  source of overall project risk , indicate which be the most important driver of overall project risk exposure ; 
+ and 
+  summary information on identify individual project risk , such as number of identify threat and opportunity , 
+ distribution of risk across risk category , metric and trend , etc . 
+ additional information may be include in the risk report , depend on the reporting requirement specify in the 
+ risk management plan . 
+ ",source of overall project risk,['identify risk'],be,"['identify risk', 'plan risk response', 'plan risk management']","['risk', 'project', 'information', 'reporting', 'analysis']"
+project document update,"project document that may be update as a result of this process include but be not limit to : 
+  assumption log . describe in section 4.1.3.2 . during the identify risk process , new assumption may be 
+ make , new constraint may be identify , and exist assumption or constraint may be revisit and change . 
+ the assumption log should be update with this new information . 
+  issue log . describe in section 4.3.3.3 . the issue log should be update to capture any new issue uncover 
+ or change in currently log issue . 
+  lesson learn register . describe in section 4.4.3.1 . the lesson learn register can be update with 
+ information on technique that be effective in identify risk to improve performance in later phase or 
+ other project . 
+ ",assumption log .,"['project document', 'project document', 'project document', 'project document update', 'project document', 'project document update', 'project document', 'project document update', 'project document', 'project document update', 'project document', 'project document update']",be,"['project document update', 'project document update', 'project document update']","['lesson', 'risk', 'log', 'constraint', 'information']"
+perform qualitative risk analysis,"perform qualitative risk analysis be the process of prioritize individual project risk for further analysis or action 
+ by assess their probability of occurrence and impact as well as other characteristic . the key benefit of this 
+ process be that it focus effort on high - priority risk . this process be perform throughout the project . the input , 
+ tool and technique , and output of the process be depict in figure 11 - 8 . figure 11 - 9 depict the data flow 
+ diagram for the process . 
+ perform qualitative risk analysis 
+ input 
+ figure 11 - 8 . perform qualitative risk analysis : input , tool & technique , and output 
+  
+ charter 
+ figure 11 - 9 . perform qualitative risk analysis : datum flow diagram 
+ perform qualitative risk analysis assess the priority of identify individual project risk use their probability of 
+ occurrence , the corresponding impact on project objective if the risk occur , and other factor . such assessment be 
+ subjective as they be base on perception of risk by the project team and other stakeholder . effective assessment 
+ therefore require explicit identification and management of the risk attitude of key participant in the perform 
+ qualitative risk analysis process . risk perception introduce bias into the assessment of identify risk , so attention 
+ should be pay to identify bias and correct for it . where a facilitator be use to support the perform qualitative 
+ risk analysis process , address bias be a key part of the facilitator ’s role . an evaluation of the quality of the available 
+ information on individual project risk also help to clarify the assessment of each risk ’s importance to the project . 
+ perform qualitative risk analysis establish the relative priority of individual project risk for plan risk response . 
+ it identify a risk owner for each risk who will take responsibility for plan an appropriate risk response and ensure 
+ that it be implement . perform qualitative risk analysis also lay the foundation for perform quantitative risk analysis 
+ if this process be require . 
+ the perform qualitative risk analysis process be perform regularly throughout the project life cycle , as define in 
+ the risk management plan . often , in an agile development environment , the perform qualitative risk analysis process be 
+ conduct before the start of each iteration . 
+ ",the risk management plan,['perform quantitative risk analysis'],be,"['perform quantitative risk analysis', 'identify risk', 'datum analysis']","['qualitative', 'risk', 'assess', 'assessment', 'stakeholder']"
+project management plan,"describe in section 4.2.3.1 . project management plan component include the risk management plan as 
+ describe in section 11.1.3.1 . of particular interest in this process be the role and responsibility for conduct risk 
+ management , budget for risk management , schedule activity for risk management , risk category ( often define in 
+ a risk breakdown structure ) , definition of probability and impact , the probability and impact matrix , and stakeholder ’ 
+ risk threshold . these input be usually tailor to the project during the plan risk management process . if they be 
+ not available , they may be develop during the perform qualitative risk analysis process and present to the project 
+ sponsor for approval before use . 
+ ",risk management plan,"['project management plan', 'project management plan', 'project management plan', 'project management plan', 'project management plan update', 'project management plan', 'project management plan', 'project management plan update']",be,"['risk management plan', 'project management plan', 'project management plan']","['risk', 'stakeholder', 'management', 'project', 'responsibility']"
+project document,"project document that can be consider as input for this process include but be not limit to : 
+  assumption log . describe in section 4.1.3.2 . the assumption log be use for identify , manage , and 
+ monitor key assumption and constraint that may affect the project . these may inform the assessment of 
+ the priority of individual project risk . 
+  risk register . describe in section 11.2.3.1 . the risk register contain detail of each identify individual project 
+ risk that will be assess during the perform qualitative risk analysis process . 
+  stakeholder register . describe in section 13.1.3.1 . this include detail of project stakeholder who may be 
+ nominate as risk owner . 
+ ",assumption log,"['project document', 'project document', 'project document update', 'project document update', 'project document', 'project document update', 'project document', 'project document update', 'project document', 'project document update', 'project document', 'project document update']",be,"['identify risk', 'perform qualitative risk analysis', 'monitor risk']","['stakeholder', 'risk', 'assess', 'qualitative', 'assessment']"
+enterprise environmental factor,"the enterprise environmental factor that can influence perform qualitative risk analysis include but be not limit to : 
+  industry study of similar project , and 
+  publish material , include commercial risk database or checklist . 
+ ",industry study of similar project,"['enterprise environmental factor', 'enterprise environmental factor', 'enterprise environmental factor', 'enterprise environmental factor']",include,"['enterprise environmental factor', 'enterprise environmental factor', 'enterprise environmental factor']","['risk', 'environmental', 'qualitative', 'enterprise', 'analysis']"
+organizational process asset,"the organizational process asset that can influence perform qualitative risk analysis include but be not limit to 
+ information from similar complete project . 
+ 11.3.2 perform qualitative risk analysis : tool and technique 
+ ","
+ information from similar complete project","['organizational process asset', 'organizational process asset', 'organizational process asset', 'organizational process asset', 'organizational process asset']",influence,"['organizational process asset', 'organizational process asset', 'organizational process asset']","['qualitative', 'risk', 'analysis', 'organizational', 'process']"
+expert judgment,"describe in section 4.1.2.1 . expertise should be consider from individual or group with specialized knowledge 
+ or training in the follow topic : 
+  previous similar project , and 
+  qualitative risk analysis . 
+ expert judgment be often obtain through facilitate risk workshop or interview . the possibility of expert view 
+ be bias should be take into account in this process . 
+ ",bias,"['expert judgment', 'expert judgment', 'expert judgment', 'expert judgment', 'expert judgment']",be,"['expert judgment', 'expert judgment', 'expert judgment']","['expertise', 'expert', 'knowledge', 'risk', 'qualitative']"
+datum gathering,"data - gather technique that can be use for this process include but be not limit to interview . structure or 
+ semi - structured interview ( section 5.2.2.2 ) can be use to assess the probability and impact of individual project risk , 
+ as well as other factor . the interviewer should promote an environment of trust and confidentiality in the interview 
+ setting to encourage honest and unbiased assessment . 
+ ",semi - structured interview,"['datum gathering', 'datum gathering', 'datum gathering']",be,"['data analysis', 'enterprise environmental factor', 'enterprise environmental factor']","['interview', 'interviewer', 'structured', 'assess', 'assessment']"
+datum analysis,"datum analysis technique that can be use during this process include but be not limit to : 
+  risk datum quality assessment . risk datum quality assessment evaluate the degree to which the datum about 
+ individual project risk be accurate and reliable as a basis for qualitative risk analysis . the use of low - quality 
+ risk datum may lead to a qualitative risk analysis that be of little use to the project . if datum quality be unacceptable , 
+ it may be necessary to gather well datum . risk datum quality may be assess via a questionnaire measure 
+ the project ’s stakeholder perception of various characteristic , which may include completeness , objectivity , 
+ relevancy , and timeliness . a weighted average of select datum quality characteristic can then be generate to 
+ give an overall quality score . 
+  risk probability and impact assessment . risk probability assessment consider the likelihood that a specific 
+ risk will occur . risk impact assessment consider the potential effect on one or more project objective such 
+ as schedule , cost , quality , or performance . impact will be negative for threat and positive for opportunity . 
+ probability and impact be assess for each identify individual project risk . risk can be assess in 
+ interview or meeting with participant select for their familiarity with the type of risk record in the 
+ risk register . project team member and knowledgeable person external to the project be include . the level 
+ of probability for each risk and its impact on each objective be evaluate during the interview or meeting . 
+ difference in the level of probability and impact perceive by stakeholder be to be expect , and such 
+ difference should be explore . explanatory detail , include assumption justify the level assign , be 
+ also record . risk probability and impact be assess use the definition give in the risk management 
+ plan ( see table 11 - 1 ) . risk with low probability and impact may be include within the risk register as part 
+ of a watch list for future monitoring . 
+  assessment of other risk parameter . the project team may consider other characteristic of risk ( in addition 
+ to probability and impact ) when prioritize individual project risk for further analysis and action . these 
+ characteristic may include but be not limit to : 
+  urgency . the period of time within which a response to the risk be to be implement in order to be effective . 
+ a short period indicate high urgency . 
+  proximity . the period of time before the risk might have an impact on one or more project objective . a short 
+ period indicate high proximity . 
+  dormancy . the period of time that may elapse after a risk have occur before its impact be discover . a 
+ short period indicate low dormancy . 
+  manageability . the ease with which the risk owner ( or own organization ) can manage the occurrence or 
+ impact of a risk . where management be easy , manageability be high . 
+  controllability . the degree to which the risk owner ( or own organization ) be able to control the risk ’s 
+ outcome . where the outcome can be easily control , controllability be high . 
+  detectability . the ease with which the result of the risk occur , or be about to occur , can be detect 
+ and recognize . where the risk occurrence can be detect easily , detectability be high . 
+  connectivity . the extent to which the risk be relate to other individual project risk . where a risk be connect 
+ to many other risk , connectivity be high . 
+  strategic impact . the potential for the risk to have a positive or negative effect on the organization ’s strategic 
+ goal . where the risk have a major effect on strategic goal , strategic impact be high . 
+  propinquity . the degree to which a risk be perceive to matter by one or more stakeholder . where a risk be 
+ perceive as very significant , propinquity be high . 
+ the consideration of some of these characteristic can provide a more robust prioritization of risk than be possible 
+ by only assess probability and impact . 
+ ",risk management,"['datum analysis', 'datum analysis', 'datum analysis']",be,"['datum analysis', 'datum analysis', 'datum analysis']","['assess', 'risk', 'assessment', 'questionnaire', 'stakeholder']"
+interpersonal and team skill,"interpersonal and team skill that can be use for this process include but be not limit to facilitation ( see section 
+ 4.1.2.3 ) . facilitation improve the effectiveness of the qualitative analysis of individual project risk . a skilled facilitator 
+ can help participant remain focused on the risk analysis task , follow the method associate with the technique 
+ accurately , reach consensus on assessment of probability and impact , identify and overcome source of bias , and 
+ resolve any disagreement that may arise . 
+ ",facilitation,"['interpersonal and team skill', 'interpersonal and team skill', 'interpersonal and team skill', 'interpersonal and team skill']",be,"['interpersonal and team skill', 'interpersonal and team skill', 'interpersonal and team skill']","['facilitation', 'facilitator', 'risk', 'skill', 'qualitative']"
+risk categorization,"risk to the project can be categorize by source of risk ( e.g. , use the risk breakdown structure ( rbs ) ; see 
+ figure 11 - 4 ) , the area of the project affect ( e.g. , use the work breakdown structure ( wb ) ; see figure 5 - 12 , 
+ 5 - 13 , and 5 - 14 ) , or other useful category ( e.g. , project phase , project budget , and role and responsibility ) to 
+ determine the area of the project most expose to the effect of uncertainty . risk can also be categorize by 
+ common root cause . risk category that may be use for the project be define in the risk management plan . 
+ grouping risk into category can lead to the development of more effective risk response by focus attention and 
+ effort on the area of high risk exposure , or by develop generic risk response to address group of related risk . 
+ ",common root cause,[],be,"['plan risk management', 'risk management plan', 'identify risk']","['risk', 'categorize', 'development', 'project', 'develop']"
+datum representation,"datum representation technique that can be use during this process include but be not limit to : 
+  probability and impact matrix . a probability and impact matrix be a grid for map the probability of each 
+ risk occurrence and its impact on project objective if that risk occur . this matrix specify combination of 
+ probability and impact that allow individual project risk to be divide into priority group ( see figure 11 - 5 ) . risk 
+ can be prioritize for further analysis and planning of risk response base on their probability and impact . 
+ the probability of occurrence for each individual project risk be assess as well as its impact on one or more 
+ project objective if it do occur , use definition of probability and impact for the project as specify in the 
+ risk management plan . individual project risk be assign to a priority level base on the combination of their 
+ assess probability and impact , use a probability and impact matrix . 
+ an organization can assess a risk separately for each objective ( e.g. , cost , time , and scope ) by have a separate 
+ probability and impact matrix for each . alternatively , it may develop way to determine one overall priority level 
+ for each risk , either by combine assessment for different objective , or by take the high priority level 
+ regardless of which objective be affect . 
+  hierarchical chart . where risk have be categorize use more than two parameter , the probability and 
+ impact matrix can not be use and other graphical representation be require . for example , a bubble chart display 
+ three dimension of datum , where each risk be plot as a disk ( bubble ) , and the three parameter be represent 
+ by the x - axis value , the y - axis value , and the bubble size . an example bubble chart be show in figure 11 - 10 , with 
+ detectability and proximity plot on the x and y axis , and impact value represent by bubble size . 
+ figure 11 - 10 . example bubble chart show detectability , proximity , and impact val 
+ ",three dimension,[],be,"['datum representation', 'representation of uncertainty', 'plan risk response']","['prioritize', 'risk', 'priority', 'hierarchical', 'planning']"
+meeting,"to undertake qualitative risk analysis , the project team may conduct a specialized meeting ( often call a risk 
+ workshop ) dedicate to the discussion of identify individual project risk . the goal of this meeting include the review 
+ of previously identify risk , assessment of probability and impact ( and possibly other risk parameter ) , categorization , 
+ and prioritization . a risk owner , who will be responsible for plan an appropriate risk response and for report 
+ progress on manage the risk , will be allocate to each individual project risk as part of the perform qualitative risk 
+ analysis process . the meeting may start by review and confirm the probability and impact scale to be use for 
+ the analysis . the meeting may also identify additional risk during the discussion , and these should be record for 
+ analysis . use of a skilled facilitator will increase the effectiveness of the meeting . 
+ ","a risk 
+ workshop","['meeting', 'meeting', 'meeting']",be,"['meeting', 'meeting', 'meeting']","['risk', 'qualitative', 'workshop', 'meeting', 'facilitator']"
+project document update,"project document that may be update as a result of carry out this process include but be not limit to : 
+  assumption log . describe in section 4.1.3.2 . during the perform qualitative risk analysis process , new 
+ assumption may be make , new constraint may be identify , and exist assumption or constraint may be 
+ revisit and change . the assumption log should be update with this new information . 
+  issue log . describe in section 4.3.3.3 . the issue log should be update to capture any new issue uncover 
+ or change in currently log issue . 
+  risk register . describe in section 11.2.3.1 . the risk register be update with new information generate during 
+ the perform qualitative risk analysis process . update to the risk register may include assessment of probability 
+ and impact for each individual project risk , its priority level or risk score , the nominate risk owner , risk urgency 
+ information or risk categorization , and a watch list for low - priority risk or risk require further analysis . 
+  risk report . describe in section 11.2.3.2 . the risk report be update to reflect the most important individual 
+ project risk ( usually those with the high probability and impact ) , as well as a prioritize list of all identify 
+ risk on the project and a summary conclusion . 
+ ",assumption log,"['project document', 'project document', 'project document update', 'project document', 'project document', 'project document update', 'project document', 'project document update', 'project document', 'project document update', 'project document', 'project document update']",be,"['project document update', 'project document update', 'project document update']","['risk', 'qualitative', 'assessment', 'prioritize', 'analysis']"
+perform quantitative risk analysis,"perform quantitative risk analysis be the process of numerically analyze the combine effect of identify individual 
+ project risk and other source of uncertainty on overall project objective . the key benefit of this process be that it 
+ quantify overall project risk exposure , and it can also provide additional quantitative risk information to support risk 
+ response planning . this process be not require for every project , but where it be use , it be perform throughout the 
+ project . the input and output of this process be depict in figure 11 - 11 . figure 11 - 12 depict the data flow diagram 
+ for the process . 
+ perform 
+ quantitative risk analysis 
+ figure 11 - 11 . perform quantitative risk analysis : input , tool & technique , and output 
+  
+ charter 
+ figure 11 - 12 . perform quantitative risk analysis : datum flow diagram 
+ perform quantitative risk analysis be not require for all project . undertake a robust analysis depend on the availability 
+ of high - quality datum about individual project risk and other source of uncertainty , as well as a sound underlie project 
+ baseline for scope , schedule , and cost . quantitative risk analysis usually require specialized risk software and expertise 
+ in the development and interpretation of risk model . it also consume additional time and cost . the use of quantitative 
+ risk analysis for a project will be specify in the project ’s risk management plan . it be most likely appropriate for large or 
+ complex project , strategically important project , project for which it be a contractual requirement , or project in which 
+ a key stakeholder require it . quantitative risk analysis be the only reliable method to assess overall project risk through 
+ evaluate the aggregated effect on project outcome of all individual project risk and other source of uncertainty . 
+ perform quantitative risk analysis use information on individual project risk that have be assess by the 
+ perform qualitative risk analysis process as have a significant potential to affect the project ’s objective . 
+ output from perform quantitative risk analysis be use as input to the plan risk response process , particularly 
+ in recommend response to the level of overall project risk and key individual risk . a quantitative risk analysis 
+ may also be undertake follow the plan risk response process , to determine the likely effectiveness of plan 
+ response in reduce overall project risk exposure . 
+ ",plan risk response process,['perform qualitative risk analysis'],be,"['perform qualitative risk analysis', 'strategy for overall project risk', 'plan risk response']","['risk', 'project', 'development', 'analysis', 'uncertainty']"
+project management plan,"describe in section 4.2.3.1 . project management plan component include but be not limit to : 
+  risk management plan . describe in section 11.1.3.1 . the risk management plan specify whether quantitative 
+ risk analysis be require for the project . it also detail the resource available for the analysis and the expect 
+ frequency of analysis . 
+  scope baseline . describe in section 5.4.3.1 . the scope baseline describe the starting point from which the 
+ effect of individual project risk and other source of uncertainty be evaluate . 
+  schedule baseline . describe in section 6.5.3.1 . the schedule baseline describe the starting point from which 
+ the effect of individual project risk and other source of uncertainty can be evaluate . 
+  cost baseline . describe in section 7.3.3.1 . the cost baseline describe the starting point from which the effect 
+ of individual project risk and other source of uncertainty can be evaluate . 
+ ",risk management plan,"['project management plan', 'project management plan', 'project management plan', 'project management plan', 'project management plan update', 'project management plan', 'project management plan', 'project management plan update']",be,"['risk management plan', 'project management plan', 'project management plan']","['baseline', 'risk', 'scope', 'uncertainty', 'analysis']"
+project document,"project document that can be consider as input for this process include but be not limit to : 
+  assumption log . describe in section 4.1.3.2 . assumption may form input to the quantitative risk analysis if 
+ they be assess as pose a risk to project objective . the effect of constraint may also be model during a 
+ quantitative risk analysis . 
+  basis of estimate . describe in section 6.4.3.2 and 7.2.3.2 . the basis of estimate use in the planning of 
+ the project may be reflect in variability model during a quantitative risk analysis process . this may include 
+ information on the estimate ’s purpose , classification , assume accuracy , methodology , and source . 
+  cost estimate . describe in section 7.2.3.1 . cost estimate provide the starting point from which cost variability 
+ be evaluate . 
+  cost forecast . describe in section 7.4.3.2 . forecast such as the project ’s estimate to complete ( etc ) , 
+ estimate at completion ( eac ) , budget at completion ( bac ) , and to - complete performance index ( tcpi ) may be 
+ compare to the result of a quantitative cost risk analysis to determine the confidence level associate with 
+ achieve these target . 
+  duration estimate . describe in section 6.4.3.1 . duration estimate provide the starting point from which 
+ schedule variability be evaluate . 
+  milestone list . describe in section 6.2.3.3 . significant event in the project define the schedule target against 
+ which the result of a quantitative schedule risk analysis be compare , in order to determine the confidence 
+ level associate with achieve these target . 
+  resource requirement . describe in section 9.2.3.1 . resource requirement provide the starting point from 
+ which variability be evaluate . 
+  risk register . describe in section 11.2.3.1 . the risk register contain detail of individual project risk to be 
+ use as input for quantitative risk analysis . 
+  risk report . describe in section 11.2.3.2 . the risk report describe source of overall project risk and the 
+ current overall project risk status . 
+  schedule forecast . describe in section 6.6.3.2 . forecast may be compare to the result of a quantitative 
+ schedule risk analysis to determine the confidence level associate with achieve these target . 
+ ",assumption log,"['project document', 'project document', 'project document update', 'project document', 'project document update', 'project document update', 'project document', 'project document update', 'project document', 'project document update', 'project document', 'project document update']",be,"['risk report', 'risk register', 'perform qualitative risk analysis']","['estimate', 'budget', 'methodology', 'analysis', 'constraint']"
+enterprise environmental factor,"the enterprise environmental factor that can influence the perform quantitative risk analysis process include but 
+ be not limit to : 
+  industry study of similar project , and 
+  publish material , include commercial risk database or checklist . 
+ ",industry study of similar project,"['enterprise environmental factor', 'enterprise environmental factor', 'enterprise environmental factor', 'enterprise environmental factor']",include,"['enterprise environmental factor', 'enterprise environmental factor', 'enterprise environmental factor']","['risk', 'environmental', 'enterprise', 'quantitative', 'analysis']"
+organizational process asset,"the organizational process asset that can influence the perform quantitative risk analysis process include 
+ information from similar complete project . 
+ 11.4.2 perform quantitative risk analysis : tool and technique 
+ ","
+ information from similar complete project","['organizational process asset', 'organizational process asset', 'organizational process asset', 'organizational process asset', 'organizational process asset']",influence,"['organizational process asset', 'organizational process asset', 'organizational process asset']","['risk', 'process', 'quantitative', 'analysis', 'organizational']"
+expert judgment,"describe in section 4.1.2.1 . expertise should be consider from individual or group with specialized knowledge 
+ or training in the follow topic : 
+  translate information on individual project risk and other source of uncertainty into numeric input for the 
+ quantitative risk analysis model , 
+  select the most appropriate representation of uncertainty to model particular risk or other source of uncertainty , 
+  model technique that be appropriate in the context of the project , 
+  identify which tool would be most suitable for the select modeling technique , and 
+  interpret the output of quantitative risk analysis . 
+ ",specialized knowledge,"['expert judgment', 'expert judgment', 'expert judgment', 'expert judgment', 'expert judgment']",be,"['perform quantitative risk analysis', 'identify risk', 'datum representation']","['risk', 'uncertainty', 'expertise', 'modeling', 'knowledge']"
+datum gathering,"interview ( see section 5.2.2.2 ) may be use to generate input for the quantitative risk analysis , draw on input 
+ that include individual project risk and other source of uncertainty . this be particularly useful where information be 
+ require from expert . the interviewer should promote an environment of trust and confidentiality during the interview 
+ to encourage honest and unbiased contribution . 
+ ",individual project risk and other source of uncertainty,"['datum gathering', 'datum gathering', 'datum gathering']",be,"['representation of uncertainty', 'expert judgment', 'expert judgment']","['interviewer', 'interview', 'risk', 'confidentiality', 'uncertainty']"
+interpersonal and team skill,"interpersonal and team skill that can be use for this process include but be not limit to facilitation ( see 
+ section 4.1.2.3 ) . a skilled facilitator be useful for gather input datum during a dedicated risk workshop involve 
+ project team member and other stakeholder . facilitate workshop can improve effectiveness by establish a 
+ clear understanding of the purpose of the workshop , build consensus among participant , ensure continue 
+ focus on the task , and use creative approach to deal with interpersonal conflict or source of bias . 
+ ",facilitation,"['interpersonal and team skill', 'interpersonal and team skill', 'interpersonal and team skill', 'interpersonal and team skill']",be,"['interpersonal and team skill', 'interpersonal and team skill', 'interpersonal and team skill']","['workshop', 'facilitation', 'facilitator', 'skill', 'facilitate']"
+representation of uncertainty,"quantitative risk analysis require input to a quantitative risk analysis model that reflect individual project risk and 
+ other source of uncertainty . 
+ where the duration , cost , or resource requirement for a plan activity be uncertain , the range of possible value 
+ can be represent in the model as a probability distribution . this may take several form . the most commonly use 
+ be triangular , normal , lognormal , beta , uniform , or discrete distribution . care should be take when select an 
+ appropriate probability distribution to reflect the range of possible value for the plan activity . 
+ individual project risk may be cover by probability distribution . alternatively , risk may be include in the 
+ model as probabilistic branch , where optional activity be add to the model to represent the time and/or cost 
+ impact of the risk should it occur , and the chance that these activity actually occur in a particular simulation run 
+ match the risk ’s probability . branch be most useful for risk that might occur independently of any plan 
+ activity . where risk be relate , for example , with a common cause or a logical dependency , correlation be use in 
+ the model to indicate this relationship . 
+ other source of uncertainty may also be represent use branch to describe alternative path through 
+ the project . 
+ ",probability distribution,[],be,"['plan risk response', 'plan risk management', 'risk management plan']","['risk', 'uncertainty', 'probabilistic', 'project', 'quantitative']"
+data analysis,"datum analysis technique that can be use during this process include but be not limit to : 
+  simulation . quantitative risk analysis use a model that simulate the combine effect of individual project risk 
+ and other source of uncertainty to evaluate their potential impact on achieve project objective . simulation 
+ be typically perform use a monte carlo analysis . when run a monte carlo analysis for cost risk , the 
+ simulation use the project cost estimate . when run a monte carlo analysis for schedule risk , the schedule 
+ network diagram and duration estimate be use . an integrate quantitative cost - schedule risk analysis use 
+ both input . the output be a quantitative risk analysis model . 
+ computer software be use to iterate the quantitative risk analysis model several thousand time . the input 
+ value ( e.g. , cost estimate , duration estimate , or occurrence of probabilistic branch ) be choose at random 
+ for each iteration . output represent the range of possible outcome for the project ( e.g. , project end date , 
+ project cost at completion ) . typical output include a histogram present the number of iteration where a 
+ particular outcome result from the simulation , or a cumulative probability distribution ( s - curve ) represent 
+ the probability of achieve any particular outcome or less . an example s - curve from a monte carlo cost risk 
+ analysis be show in figure 11 - 13 . 
+ figure 11 - 13 . example s - curve from quantitative cost risk analysis 
+ for a quantitative schedule risk analysis , it be also possible to conduct a criticality analysis that determine which 
+ element of the risk model have the great effect on the project critical path . a criticality index be calculate for 
+ each element in the risk model , which give the frequency with which that element appear on the critical path 
+ during the simulation , usually express as a percentage . the output from a criticality analysis allow the project 
+ team to focus risk response planning effort on those activity with the high potential effect on the overall 
+ schedule performance of the project . 
+  sensitivity analysis . sensitivity analysis help to determine which individual project risk or other source of 
+ uncertainty have the most potential impact on project outcome . it correlate variation in project outcome with 
+ variation in element of the quantitative risk analysis model . 
+ one typical display of sensitivity analysis be the tornado diagram , which present the calculate correlation 
+ coefficient for each element of the quantitative risk analysis model that can influence the project outcome . 
+ this can include individual project risk , project activity with high degree of variability , or specific source 
+ of ambiguity . item be order by descend strength of correlation , give the typical tornado appearance . 
+ an example tornado diagram be show in figure 11 - 14 . 
+ figure 11 - 14 . example tornado diagram 
+  decision tree analysis . decision tree be use to support selection of the good of several alternative course of 
+ action . alternative path through the project be show in the decision tree use branch represent different 
+ decision or event , each of which can have associate cost and related individual project risk ( include both 
+ threat and opportunity ) . the end - point of branch in the decision tree represent the outcome from follow 
+ that particular path , which can be negative or positive . 
+ the decision tree be evaluate by calculate the expect monetary value of each branch , allow the optimal 
+ path to be select . an example decision tree be show in figure 11 - 15 . 
+ figure 11 - 15 . example decision tree 
+  influence diagram . influence diagram be graphical aid to decision making under uncertainty . an influence 
+ diagram represent a project or situation within the project as a set of entity , outcome , and influence , together 
+ with the relationship and effect between they . where an element in the influence diagram be uncertain as a 
+ result of the existence of individual project risk or other source of uncertainty , this can be represent in the 
+ influence diagram use range or probability distribution . the influence diagram be then evaluate use a 
+ simulation technique , such as monte carlo analysis , to indicate which element have the great influence 
+ on key outcome . output from an influence diagram be similar to other quantitative risk analysis method , 
+ include s - curve and tornado diagram . 
+ ",simulation,['data analysis'],be,"['datum analysis', 'datum analysis', 'datum analysis']","['simulation', 'software', 'risk', 'project', 'planning']"
+project document update,"project document that can be consider as output for this process include but be not limited to the risk report 
+ describe in section 11.2.3.2 . the risk report will be update to reflect the result of the quantitative risk analysis . this 
+ will typically include : 
+  assessment of overall project risk exposure . overall project risk be reflect in two key measure : 
+  chance of project success , indicate by the probability that the project will achieve its key objective ( e.g. , 
+ require end date or interim milestone , require cost target , etc . ) give the identify individual project risk 
+ and other source of uncertainty ; and 
+  degree of inherent variability remain within the project at the time the analysis be conduct , indicate 
+ by the range of possible project outcome . 
+  detailed probabilistic analysis of the project . key output from the quantitative risk analysis be present , 
+ such as s - curve , tornado diagram , and criticality analysis , together with a narrative interpretation of the result . 
+ possible detailed result of a quantitative risk analysis may include : 
+  amount of contingency reserve need to provide a specified level of confidence ; 
+  identification of individual project risk or other source of uncertainty that have the great effect on the 
+ project critical path ; and 
+  major driver of overall project risk , with the great influence on uncertainty in project outcome . 
+  prioritize list of individual project risk . this list include those individual project risk that pose the great 
+ threat or present the great opportunity to the project , as indicate by sensitivity analysis . 
+  trend in quantitative risk analysis result . as the analysis be repeat at different time during the project life 
+ cycle , trend may become apparent that inform the planning of risk response . 
+  recommend risk response . the risk report may present suggest response to the level of overall 
+ project risk exposure or key individual project risk , base on the result of the quantitative risk analysis . these 
+ recommendation will form input to the plan risk response process . 
+ ",risk report,"['project document', 'project document', 'project document update', 'project document', 'project document update', 'project document', 'project document', 'project document update', 'project document', 'project document update', 'project document', 'project document update']",be,"['strategy for overall project risk', 'risk report', 'perform qualitative risk analysis']","['risk', 'project', 'uncertainty', 'assessment', 'variability']"
+plan risk response,"plan risk response be the process of develop option , select strategy , and agree on action to address 
+ overall project risk exposure , as well as to treat individual project risk . the key benefit of this process be that it identify 
+ appropriate way to address overall project risk and individual project risk . this process also allocate resource 
+ and insert activity into project document and the project management plan as need . this process be perform 
+ throughout the project . the input , tool and technique , and output of the process be depict in figure 11 - 16 . 
+ figure 11 - 17 depict the data flow diagram for the process . 
+ in 
+ figure 11 - 16 . plan risk response : input , tool & technique , and output 
+ figure 11 - 17 . plan risk response : datum flow diagram 
+ effective and appropriate risk response can minimize individual threat , maximize individual opportunity , and 
+ reduce overall project risk exposure . unsuitable risk response can have the converse effect . once risk have be 
+ identify , analyze , and prioritize , plan should be develop by the nominate risk owner for address every 
+ individual project risk the project team consider to be sufficiently important , either because of the threat it pose to the 
+ project objective or the opportunity it offer . the project manager should also consider how to respond appropriately to 
+ the current level of overall project risk . 
+ risk response should be appropriate for the significance of the risk , cost - effective in meet the challenge , realistic 
+ within the project context , agree upon by all party involve , and own by a responsible person . select the 
+ optimal risk response from several option be often require . the strategy or mix of strategy most likely to be effective 
+ should be select for each risk . structured decision - make technique may be use to choose the most appropriate 
+ response . for large or complex project , it may be appropriate to use a mathematical optimization model or real option 
+ analysis as a basis for a more robust economic analysis of alternative risk response strategy . 
+ specific action be develop to implement the agree - upon risk response strategy , include primary and backup 
+ strategy , as necessary . a contingency plan ( or fallback plan ) can be develop for implementation if the select 
+ strategy turn out not to be fully effective or if an accept risk occur . secondary risk should also be identify . 
+ secondary risk be risk that arise as a direct result of implement a risk response . a contingency reserve be often 
+ allocate for time or cost . if develop , it may include identification of the condition that trigger its use . 
+ ","the process of develop option , select strategy , and agree on action","['plan risk management', 'risk management plan']",be,"['plan risk response', 'implement risk response', 'strategy for threat']","['risk', 'threat', 'process', 'plan', 'develop']"
+project management plan,"describe in section 4.2.3.1 . project management plan component include but be not limit to : 
+  resource management plan . describe in section 9.1.3.1 . the resource management plan be use to help 
+ determine how resource allocate to agree - upon risk response will be coordinate with other project resource . 
+  risk management plan . describe in section 11.1.3.1 . risk management role and responsibility and risk 
+ threshold be use in this process . 
+  cost baseline . describe in section 7.3.3.1 . the cost baseline have information on the contingency fund that be 
+ allocate to respond to risk . 
+ ",resource management plan,"['project management plan', 'project management plan', 'project management plan', 'project management plan', 'project management plan update', 'project management plan', 'project management plan', 'project management plan update']",be,"['risk management plan', 'project management plan', 'project management plan']","['resource', 'risk', 'section', 'plan', 'include']"
+project document,"project document that can be consider as input for this process include but be not limit to : 
+  lesson learn register . describe in section 4.4.3.1 . lesson learn about effective risk response use in 
+ early phase of the project be review to determine if similar response might be useful during the remainder 
+ of the project . 
+  project schedule . describe in section 6.5.3.2 . the schedule be use to determine how agree - upon risk 
+ response will be schedule alongside other project activity . 
+  project team assignment . describe in section 9.3.3.2 . project team assignment can show the resource 
+ that can be allocate to agree - upon risk response . 
+  resource calendar . describe in section 9.2.1.2 . resource calendar identify when potential resource be 
+ available to be allocate to agree - upon risk response . 
+  risk register . describe in section 11.2.3.1 . the risk register contain detail of individual project risk that 
+ have be identify and prioritize , and for which risk response be require . the priority level for each risk 
+ can help to guide the selection of appropriate risk response . for example , high - priority threat or opportunity 
+ may require priority action and highly proactive response strategy . threat and opportunity in the low - priority 
+ zone may not require proactive management action beyond be place in the risk register as part of the watch 
+ list or add a contingency reserve . 
+ the risk register identify the nominate risk owner for each risk . it may also contain preliminary risk response 
+ identify early in the project risk management process . the risk register may provide other datum on identify 
+ risk that can assist in plan risk response , include root cause , risk trigger and warning sign , risk 
+ require response in the near term , and risk where a need for additional analysis have be identify . 
+  risk report . describe in section 11.2.3.2 . the risk report present the current level of overall risk exposure of 
+ the project that will inform selection of the risk response strategy . the risk report may also list individual project 
+ risk in priority order and provide additional analysis of the distribution of individual project risk that may inform 
+ risk response selection . 
+  stakeholder register . describe in section 13.1.3.1 . the stakeholder register identify potential owner for 
+ risk response . 
+ ",lesson learn register,"['project document', 'project document', 'project document update', 'project document', 'project document update', 'project document', 'project document update', 'project document update', 'project document', 'project document update', 'project document', 'project document update']",be,"['plan risk response', 'identify risk', 'implement risk response']","['resource', 'schedule', 'prioritize', 'priority', 'risk']"
+enterprise environmental factor,"the enterprise environmental factor that can influence the plan risk response process include but be not limit 
+ to the risk appetite and threshold of key stakeholder . 
+ ",risk appetite and threshold of key stakeholder,"['enterprise environmental factor', 'enterprise environmental factor', 'enterprise environmental factor', 'enterprise environmental factor']",influence,"['enterprise environmental factor', 'enterprise environmental factor', 'enterprise environmental factor']","['risk', 'stakeholder', 'enterprise', 'environmental', 'influence']"
+organizational process asset,"the organizational process asset that can influence the plan risk response process include but be not limit to : 
+  template for the risk management plan , risk register , and risk report ; 
+  historical database ; and 
+  lesson learn repository from similar project . 
+ ",historical database,"['organizational process asset', 'organizational process asset', 'organizational process asset', 'organizational process asset', 'organizational process asset']",influence,"['organizational process asset', 'organizational process asset', 'organizational process asset']","['risk', 'process', 'asset', 'organizational', 'management']"
+expert judgment,"describe in section 4.1.2.1 . expertise should be consider from individual or group with specialized knowledge 
+ in the follow topic : 
+  threat response strategy , 
+  opportunity response strategy , 
+  contingent response strategy , and 
+  overall project risk response strategy . 
+ expert input may be seek from individual with particular subject matter expertise relevant to a specific individual 
+ project risk , for example , where specialist technical knowledge be require . 
+ ",specialized knowledge,"['expert judgment', 'expert judgment', 'expert judgment', 'expert judgment', 'expert judgment']",be,"['strategy for overall project risk', 'strategy for threat', 'strategy for opportunity']","['expertise', 'expert', 'knowledge', 'specialist', 'specific']"
+datum gathering,"data - gather technique that can be use for this process include but be not limit to interview ( see 
+ section 5.2.2.2 ) . development of response to individual project risk and overall project risk may be undertake 
+ during structured or semi - structured interview ( see section 5.2.2.2 ) with risk owner . other stakeholder may 
+ also be interview if necessary . the interviewer should promote an environment of trust and confidentiality in the 
+ interview setting to encourage honest and unbiased decision . 
+ ",interview,"['datum gathering', 'datum gathering', 'datum gathering']",be,"['data analysis', 'data analysis', 'decision make']","['interviewer', 'interview', 'stakeholder', 'confidentiality', 'risk']"
+interpersonal and team skill,"interpersonal and team skill that can be use for this process include but be not limit to facilitation ( see 
+ section 4.1.2.3 ) . the use of facilitation improve the effectiveness of develop response to individual project 
+ risk and overall project risk . a skilled facilitator can help risk owner understand the risk , identify and compare 
+ alternative possible risk response strategy , choose an appropriate response strategy , and identify and overcome 
+ source of bias . 
+ ",facilitation,"['interpersonal and team skill', 'interpersonal and team skill', 'interpersonal and team skill', 'interpersonal and team skill']",be,"['interpersonal and team skill', 'interpersonal and team skill', 'interpersonal and team skill']","['facilitation', 'facilitator', 'risk', 'develop', 'skill']"
+strategy for threat,"five alternative strategy may be consider for deal with threat , as follows : 
+  escalate . escalation be appropriate when the project team or the project sponsor agree that a threat be outside 
+ the scope of the project or that the propose response would exceed the project manager ’s authority . escalate 
+ risk be manage at the program level , portfolio level , or other relevant part of the organization , and not on the 
+ project level . the project manager determine who should be notify about the threat and communicate the 
+ detail to that person or part of the organization . it be important that ownership of escalate threat be accept 
+ by the relevant party in the organization . threat be usually escalate to the level that match the objective 
+ that would be affect if the threat occur . escalate threat be not monitor far by the project team after 
+ escalation , although they may be record in the risk register for information . 
+  avoid . risk avoidance be when the project team act to eliminate the threat or protect the project from its 
+ impact . it may be appropriate for high - priority threat with a high probability of occurrence and a large negative 
+ impact . avoidance may involve change some aspect of the project management plan or change the objective 
+ that be in jeopardy in order to eliminate the threat entirely , reduce its probability of occurrence to zero . the 
+ risk owner may also take action to isolate the project objective from the risk ’s impact if it be to occur . 
+ example of avoidance action may include remove the cause of a threat , extend the schedule , change the 
+ project strategy , or reduce scope . some risk can be avoid by clarify requirement , obtain information , 
+ improve communication , or acquire expertise . 
+  transfer . transfer involve shift ownership of a threat to a third party to manage the risk and to bear the 
+ impact if the threat occur . risk transfer often involve payment of a risk premium to the party take on the 
+ threat . transfer can be achieve by a range of action , which include but be not limit to the use of insurance , 
+ performance bond , warranty , guarantee , etc . agreement may be use to transfer ownership and liability for 
+ specify risk to another party . 
+  mitigate . in risk mitigation , action be take to reduce the probability of occurrence and/or impact of a threat . early 
+ mitigation action be often more effective than try to repair the damage after the threat have occur . adopt 
+ less complex process , conduct more test , or choose a more stable seller be example of mitigation 
+ action . mitigation may involve prototype development ( see section 5.2.2.8 ) to reduce the risk of scale up from 
+ a bench - scale model of a process or product . where it be not possible to reduce probability , a mitigation response 
+ might reduce the impact by target factor that drive the severity . for example , design redundancy into a 
+ system may reduce the impact from a failure of the original component . 
+  accept . risk acceptance acknowledge the existence of a threat , but no proactive action be take . this strategy 
+ may be appropriate for low - priority threat , and it may also be adopt where it be not possible or cost - effective 
+ to address a threat in any other way . acceptance can be either active or passive . the most common active 
+ acceptance strategy be to establish a contingency reserve , include amount of time , money , or resource to 
+ handle the threat if it occur . passive acceptance involve no proactive action apart from periodic review of the 
+ threat to ensure that it do not change significantly . 
+ ",escalate,[],be,"['strategy for overall project risk', 'strategy for opportunity', 'plan risk response']","['threat', 'escalation', 'risk', 'mitigation', 'avoid']"
+strategy for opportunity,"five alternative strategy may be consider for deal with opportunity , as follows : 
+  escalate . this risk response strategy be appropriate when the project team or the project sponsor agree that 
+ an opportunity be outside the scope of the project or that the propose response would exceed the project 
+ manager ’s authority . escalate opportunity be manage at the program level , portfolio level , or other relevant 
+ part of the organization , and not on the project level . the project manager determine who should be notify 
+ about the opportunity and communicate the detail to that person or part of the organization . it be important 
+ that ownership of escalate opportunity be accept by the relevant party in the organization . opportunity 
+ be usually escalate to the level that match the objective that would be affect if the opportunity occur . 
+ escalate opportunity be not monitor far by the project team after escalation , although they may be 
+ record in the risk register for information . 
+  exploit . the exploit strategy may be select for high - priority opportunity where the organization want to 
+ ensure that the opportunity be realize . this strategy seek to capture the benefit associate with a particular 
+ opportunity by ensure that it definitely happen , increase the probability of occurrence to 100 % . example of 
+ exploiting response may include assign an organization ’s most talented resource to the project to reduce 
+ the time to completion , or use new technology or technology upgrade to reduce cost and duration . 
+  share . share involve transfer ownership of an opportunity to a third party so that it share some of the 
+ benefit if the opportunity occur . it be important to select the new owner of a share opportunity carefully so they 
+ be well able to capture the opportunity for the benefit of the project . risk sharing often involve payment of a 
+ risk premium to the party take on the opportunity . example of share action include form risk - share 
+ partnership , team , special - purpose company , or joint venture . 
+  enhance . the enhance strategy be use to increase the probability and/or impact of an opportunity . early 
+ enhancement action be often more effective than try to improve the benefit after the opportunity have occur . 
+ the probability of occurrence of an opportunity may be increase by focus attention on its cause . where it 
+ be not possible to increase probability , an enhancement response might increase the impact by target factor 
+ that drive the size of the potential benefit . example of enhance opportunity include add more resource 
+ to an activity to finish early . 
+  accept . accept an opportunity acknowledge its existence but no proactive action be take . this strategy may 
+ be appropriate for low - priority opportunity , and it may also be adopt where it be not possible or cost - effective 
+ to address an opportunity in any other way . acceptance can be either active or passive . the most common active 
+ acceptance strategy be to establish a contingency reserve , include amount of time , money , or resource to take 
+ advantage of the opportunity if it occur . passive acceptance involve no proactive action apart from periodic 
+ review of the opportunity to ensure that it do not change significantly . 
+ ",escalate,[],be,"['strategy for overall project risk', 'strategy for threat', 'contingent response strategy']","['strategy', 'exploiting', 'exploit', 'opportunity', 'escalation']"
+contingent response strategy,"some response be design for use only if certain event occur . for some risk , it be appropriate for the project 
+ team to make a response plan that will only be execute under certain predefine condition , if it be believe that 
+ there will be sufficient warning to implement the plan . event that trigger the contingency response , such as miss 
+ intermediate milestone or gain high priority with a seller , should be define and track . risk response 
+ identify use this technique be often call contingency plan or fallback plan and include identify trigger 
+ event that set the plan in effect . 
+ ",fallback plan,[],be,"['implement risk response', 'plan risk management', 'risk management plan']","['contingency', 'risk', 'response', 'event', 'trigger']"
+strategy for overall project risk,"risk response should be plan and implement not only for individual project risk but also to address overall 
+ project risk . the same risk response strategy that be use to deal with individual project risk can also be apply to 
+ overall project risk : 
+  avoid . where the level of overall project risk be significantly negative and outside the agree - upon risk 
+ threshold for the project , an avoid strategy may be adopt . this involve take focused action to reduce 
+ the negative effect of uncertainty on the project as a whole and bring the project back within the threshold . 
+ an example of avoidance at the overall project level would include removal of high - risk element of scope 
+ from the project . where it be not possible to bring the project back within the threshold , the project may be 
+ cancel . this represent the most extreme degree of risk avoidance and it should be use only if the overall 
+ level of threat be , and will remain , unacceptable . 
+  exploit . where the level of overall project risk be significantly positive and outside the agree - upon risk threshold 
+ for the project , an exploit strategy may be adopt . this involve take focused action to capture the positive 
+ effect of uncertainty on the project as a whole . an example of exploit at the overall project level would include 
+ addition of high - benefit element of scope to the project to add value or benefit to stakeholder . alternatively 
+ the risk threshold for the project may be modify with the agreement of key stakeholder in order to embrace 
+ the opportunity . 
+  transfer / share . if the level of overall project risk be high but the organization be unable to address it effectively , 
+ a third party may be involve to manage the risk on behalf of the organization . where overall project risk be 
+ negative , a transfer strategy be require , which may involve payment of a risk premium . in the case of high 
+ positive overall project risk , ownership may be share in order to reap the associate benefit . example of 
+ both transfer and share strategy for overall project risk include but be not limit to set up a collaborative 
+ business structure in which the buyer and the seller share the overall project risk , launch a joint venture or 
+ special - purpose company , or subcontract key element of the project . 
+  mitigate / enhance . these strategy involve change the level of overall project risk to optimize the chance 
+ of achieve the project ’s objective . the mitigation strategy be use where overall project risk be negative , and 
+ enhancement apply when it be positive . example of mitigation or enhancement strategy include replanne 
+ the project , change the scope and boundary of the project , modify project priority , change resource 
+ allocation , adjust delivery time , etc . 
+  accept . where no proactive risk response strategy be possible to address overall project risk , the organization 
+ may choose to continue with the project as currently define , even if overall project risk be outside the agreed- 
+ upon threshold . acceptance can be either active or passive . the most common active acceptance strategy be 
+ to establish an overall contingency reserve for the project , include amount of time , money , or resource to be 
+ use if the project exceed its threshold . passive acceptance involve no proactive action apart from periodic 
+ review of the level of overall project risk to ensure that it do not change significantly . 
+ ",avoid,[],be,"['strategy for threat', 'strategy for opportunity', 'project management plan']","['risk', 'mitigation', 'avoidance', 'mitigate', 'strategy']"
+datum analysis,"a number of alternative risk response strategy may be consider . datum analysis technique that can be use to 
+ select a preferred risk response strategy include but be not limit to : 
+  alternative analysis . a simple comparison of the characteristic and requirement of alternative risk response 
+ option can lead to a decision on which response be most appropriate . 
+  cost - benefit analysis . if the impact of an individual project risk can be quantify in monetary term , then the 
+ cost - effectiveness of alternative risk response strategy can be determine use cost - benefit analysis ( see 
+ section 8.1.2.3 ) . the ratio of ( change in impact level ) divide by ( implementation cost ) give the cost effectiveness 
+ of the response strategy , with a high ratio indicate a more effective response . 
+ ",alternative analysis,"['datum analysis', 'datum analysis', 'datum analysis']",be,"['strategy for overall project risk', 'contingent response strategy', 'implement risk response']","['risk', 'effectiveness', 'strategy', 'analysis', 'alternative']"
+decision make,"decision - make technique that can be use to select a risk response strategy include but be not limited to 
+ multicriteria decision analysis ( describe in section 8.1.2.4 ) . one or more risk response strategy may be under 
+ consideration . decision - make technique can help prioritize risk response strategy . multicriteria decision analysis 
+ use a decision matrix to provide a systematic approach for establish key decision criterion , evaluate and ranking 
+ alternative , and select a preferred option . criterion for risk response selection may include but be not limited to 
+ cost of response , likely effectiveness of response in change probability and/or impact , resource availability , timing 
+ constraint ( urgency , proximity , and dormancy ) , level of impact if the risk occur , effect of response on related risk , 
+ introduction of secondary risk , etc . different strategy may be select later in the project if the original choice prove 
+ to be ineffective . 
+ ",multicriteria decision analysis,[],be,"['plan risk response', 'strategy for overall project risk', 'contingent response strategy']","['multicriteria', 'risk', 'prioritize', 'strategy', 'decision']"
+change request,"describe in section 4.3.3.4 . plan risk response may result in a change request to the cost and schedule 
+ baseline or other component of the project management plan . change request be process for review and 
+ disposition through the perform integrate change control process ( section 4.6 ) . 
+ ","process for review and 
+ disposition through the perform integrate change control process","['change request', 'change request']",risk,"['change request', 'change request', 'project management plan']","['risk', 'plan', 'process', 'section', 'response']"
+project management plan update,"any change to the project management plan go through the organization ’s change control process via a change 
+ request . component that may require a change request for the project management plan include but be not limit to : 
+  schedule management plan . describe in section 6.1.3.1 . change to the schedule management plan , such as 
+ change to resource loading and leveling , or update to the schedule strategy , be incorporate . 
+  cost management plan . describe in section 7.1.3.1 . change to the cost management plan , such as change 
+ to cost accounting , tracking , and report , as well as update to the budget strategy and how contingency reserve 
+ be consume , be incorporate . 
+  quality management plan . describe in section 8.1.3.1 . change to the quality management plan , such as 
+ change to approach for meeting requirement , quality management approach , or quality control process , 
+ be incorporate . 
+  resource management plan . describe in section 9.1.3.1 . change to the resource management plan , such as 
+ change to resource allocation , as well as update to the resource strategy , be incorporate . 
+  procurement management plan . describe in section 12.1.3.1 . change to the procurement management 
+ plan , such as alteration in the make - or - buy decision or contract type(s ) , be incorporate . 
+  scope baseline . describe in section 5.4.3.1 . change in the scope baseline be incorporate in response to 
+ approve change in scope that may arise from agree - upon risk response . 
+  schedule baseline . describe in section 6.5.3.1 . change in the schedule baseline be incorporate in response 
+ to approve change in schedule estimate that may arise from agree - upon risk response . 
+  cost baseline . describe in section 7.3.3.1 . change in the cost baseline be incorporate in response to 
+ approve change in cost estimate that may arise from agree - upon risk response . 
+ ",scope baseline,"['project management plan', 'project management plan', 'project management plan', 'project management plan', 'project management plan', 'project management plan', 'project management plan', 'project management plan update']",be,"['change request', 'change request', 'plan risk management']","['management', 'resource', 'plan', 'procurement', 'alteration']"
+project document update,"project document that may be update as a result of carry out this process include but be not limit to : 
+  assumption log . describe in section 4.1.3.2 . during the plan risk response process , new assumption 
+ may be make , new constraint may be identify , and exist assumption or constraint may be revisit and 
+ change . the assumption log should be update with this new information . 
+  cost forecast . describe in section 7.4.3.2 . cost forecast may change as a result of plan risk response . 
+  lesson learn register . describe in section 4.4.3.1 . the lesson learn register be update with information 
+ about risk response that may be useful for future phase of the project or future project . 
+  project schedule . describe in section 6.5.3.2 . activity relate to agree - upon risk response may be add 
+ to the project schedule . 
+  project team assignment . describe in section 9.3.3.2 . once the response be confirm , the necessary 
+ resource should be allocate to each action associate with a risk response plan . these resource include suitably 
+ qualified and experienced personnel to execute the agree - upon action ( usually within the project team ) a specific 
+ budget and time allowance for the action , and any require technical resource to complete the action . 
+  risk register . describe in section 11.2.3.1 . the risk register be update when appropriate risk response be 
+ choose and agree upon . update to the risk register may include but be not limit to : 
+  agree - upon response strategy ; 
+  specific action to implement the choose response strategy ; 
+  trigger condition , symptom , and warning sign of a risk occurrence ; 
+  budget and schedule activity require to implement the choose response ; 
+  contingency plan and risk trigger that call for their execution ; 
+  fallback plan for use when a risk that have occur and the primary response prove to be inadequate ; 
+  residual risk that be expect to remain after plan response have be take , as well as those that 
+ have be deliberately accept ; and 
+  secondary risk that arise as a direct outcome of implement a risk response . 
+  risk report . describe in section 11.2.3.2 . the risk report may be update to present agree - upon response 
+ to the current overall project risk exposure and high - priority risk , together with the expect change that may 
+ be expect as a result of implement these response . 
+ ",assumption log,"['project document', 'project document', 'project document update', 'project document', 'project document update', 'project document', 'project document update', 'project document', 'project document', 'project document update', 'project document', 'project document update']",be,"['implement risk response', 'project management plan update', 'project management plan update']","['resource', 'assignment', 'plan', 'risk', 'project']"
+implement risk response,"implement risk response be the process of implement agree - upon risk response plan . the key benefit of 
+ this process be that it ensure that agree - upon risk response be execute as plan in order to address overall 
+ project risk exposure , minimize individual project threat , and maximize individual project opportunity . this process be 
+ perform throughout the project . the input , tool and technique , and output of the process be depict in figure 
+ 11 - 18 . figure 11 - 19 depict the data flow diagram for the process . 
+ implement risk response 
+ figure 11 - 18 . implement risk response : input , tool & technique , and output 
+  
+ charter 
+ figure 11 - 19 . implement risk response : datum flow diagram 
+ proper attention to the implement risk response process will ensure that agree - upon risk response be actually 
+ execute . a common problem with project risk management be that project team spend effort in identify and 
+ analyze risk and develop risk response , then risk response be agree upon and document in the risk register 
+ and risk report , but no action be take to manage the risk . 
+ only if risk owner give the require level of effort to implement the agree - upon response will the overall risk 
+ exposure of the project and individual threat and opportunity be manage proactively . 
+ ",the process of implement agree - upon risk response plan,[],be,"['plan risk response', 'plan risk management', 'risk management plan']","['risk', 'threat', 'response', 'process', 'implement']"
+project management plan,"describe in section 4.2.3.1 . project management plan component include but be not limit to the risk 
+ management plan . describe in section 11.1.3.1 , the risk management plan list the role and responsibility of 
+ project team member and other stakeholder for risk management . this information be use when allocate owner 
+ for agree - upon risk response . the risk management plan also define the level of detail for the risk management 
+ methodology for the project . it also specify risk threshold for the project base on the risk appetite of key stakeholder , 
+ which define the acceptable target that the implementation of risk response be require to achieve . 
+ ","risk 
+ management plan","['project management plan', 'project management plan', 'project management plan', 'project management plan', 'project management plan', 'project management plan update', 'project management plan', 'project management plan update']",be,"['risk management plan', 'project management plan', 'project management plan']","['risk', 'stakeholder', 'responsibility', 'management', 'plan']"
+project document,"project document that can be consider as input for this process include but be not limit to : 
+  lesson learn register . describe in section 4.4.3.1 . lesson learn early in the project with regard 
+ to implement risk response can be apply to later phase in the project to improve the effectiveness 
+ of this process . 
+  risk register . describe in section 11.2.3.1 . the risk register record the agree - upon risk response for each 
+ individual risk and the nominated owner for each response plan . 
+  risk report . describe in section 11.2.3.2 . the risk report include an assessment of the current overall project 
+ risk exposure , as well as the agree - upon risk response strategy . it also describe the major individual project 
+ risk with their plan response . 
+ ",lesson learn register,"['project document', 'project document', 'project document update', 'project document', 'project document update', 'project document', 'project document update', 'project document', 'project document update', 'project document update', 'project document', 'project document update']",be,"['risk register', 'implement risk response', 'risk report']","['risk', 'assessment', 'lesson', 'project', 'document']"
+organizational process asset,"the organizational process asset that can influence the implement risk response process include but be not 
+ limit to the lesson learn repository from similar complete project that indicate the effectiveness of particular 
+ risk response . 
+ ",lesson learn repository,"['organizational process asset', 'organizational process asset', 'organizational process asset', 'organizational process asset', 'organizational process asset']",influence,"['organizational process asset', 'organizational process asset', 'organizational process asset']","['risk', 'lesson', 'asset', 'process', 'organizational']"
+expert judgment,"describe in section 4.1.2.1 . expertise should be consider from individual or group with specialized 
+ knowledge to validate or modify risk response if necessary , and decide how to implement they in the most 
+ efficient and effective manner . 
+ ",efficient and effective manner,"['expert judgment', 'expert judgment', 'expert judgment', 'expert judgment', 'expert judgment']",be,"['plan risk response', 'contingent response strategy', 'identify risk']","['expertise', 'knowledge', 'implement', 'validate', 'risk']"
+interpersonal and team skill,"interpersonal and team skill that can be use for this process include but be not limit to influence . some risk 
+ response action may be own by people outside the immediate project team or who have other compete demand . 
+ the project manager or person responsible for facilitate the risk process may need to exercise influence ( see 
+ section 9.5.2.1 ) to encourage nominated risk owner to take necessary action where require . 
+ ",influence,"['interpersonal and team skill', 'interpersonal and team skill', 'interpersonal and team skill', 'interpersonal and team skill']",be,"['interpersonal and team skill', 'interpersonal and team skill', 'interpersonal and team skill']","['risk', 'influence', 'responsible', 'interpersonal', 'encourage']"
+project management information system ( pmis ),"describe in section 4.3.2.2 . project management information system can include schedule , resource , and cost 
+ software to ensure that agree - upon risk response plan and their associate activity be integrate into the project 
+ alongside other project activity . 
+ ","schedule , resource , and cost",[],include,"['project management plan', 'project management plan', 'project management plan']","['management', 'software', 'resource', 'section', 'information']"
+change request,"describe in section 4.3.3.4 . implementation of risk response may result in a change request to the cost and 
+ schedule baseline or other component of the project management plan . change request be process for review 
+ and disposition through the perform integrate change control process ( section 4.6 ) . 
+ ",process for review,"['change request', 'change request']",result,"['change request', 'change request', 'project management plan']","['risk', 'process', 'implementation', 'section', 'response']"
+project document update,"project document that may be update as a result of carry out this process include but be not limit to : 
+  issue log . describe in section 4.3.3.3 . where issue be identify as part of the implement risk response 
+ process , they be record in the issue log . 
+  lesson learn register . describe in section 4.4.3.1 . the lesson learn register be update with information 
+ on challenge encounter when implement risk response and how they could have be avoid , as well 
+ as approach that work well for implement risk response . 
+  project team assignment . describe in section 9.3.3.2 . once the risk response be confirm , the necessary 
+ resource should be allocate to each action associate with a risk response plan . these resource include 
+ suitably qualified and experienced personnel to execute the agree - upon action ( usually within the project team ) , 
+ a specific budget and time allowance for the action , and any require technical resource to complete the action . 
+  risk register . describe in section 11.2.3.1 . the risk register may be update to reflect any change to the 
+ previously agree - upon risk response for individual project risk that be subsequently make as a result of the 
+ implement risk response process . 
+  risk report . describe in section 11.2.3.2 . the risk report may be update to reflect any change to the 
+ previously agree - upon risk response to overall project risk exposure that be subsequently make as a result of 
+ the implement risk response process . 
+ ",issue log,"['project document', 'project document', 'project document update', 'project document', 'project document update', 'project document', 'project document update', 'project document', 'project document update', 'project document', 'project document', 'project document update']",be,"['plan risk response', 'risk register', 'project document update']","['risk', 'resource', 'assignment', 'lesson', 'document']"
+monitor risk,"monitor risk be the process of monitor the implementation of agree - upon risk response plan , track identify 
+ risk , identify and analyze new risk , and evaluate risk process effectiveness throughout the project . the key 
+ benefit of this process be that it enable project decision to be base on current information about overall project risk 
+ exposure and individual project risk . this process be perform throughout the project . the input , tool and technique , 
+ and output of the process be depict in figure 11 - 20 . figure 11 - 21 depict the data flow diagram for the process . 
+ figure 11 - 20 . monitor risk : input , tool & technique , and output 
+  
+ charter 
+ figure 11 - 21 . monitor risk : datum flow diagram 
+ in order to ensure that the project team and key stakeholder be aware of the current level of risk exposure , project 
+ work should be continuously monitor for new , change , and outdated individual project risk and for change in 
+ the level of overall project risk by apply the monitor risk process . the monitor risk process use performance 
+ information generate during project execution to determine if : 
+  implement risk response be effective , 
+  level of overall project risk have change , 
+  status of identify individual project risk have change , 
+  new individual project risk have arise , 
+  risk management approach be still appropriate , 
+  project assumption be still valid , 
+  risk management policy and procedure be be follow , 
+  contingency reserve for cost or schedule require modification , and 
+  project strategy be still valid . 
+ ",the process of monitor the implementation of agree - upon risk response plan,[],be,"['strategy for overall project risk', 'identify risk', 'plan risk response']","['risk', 'process', 'monitor', 'project', 'analyze']"
+project management plan,"describe in section 4.2.3.1 . project management plan component include but be not limit to the risk 
+ management plan . describe in section 11.3.1.1 . the risk management plan provide guidance on how and when 
+ risk should be review , which policy and procedure should be follow , the role and responsibility in the 
+ monitoring process , and reporting format . 
+ ",risk,"['project management plan', 'project management plan', 'project management plan', 'project management plan', 'project management plan', 'project management plan update', 'project management plan', 'project management plan update']",be,"['risk management plan', 'project management plan', 'project management plan']","['guidance', 'risk', 'section', 'plan', 'policy']"
+project document,"project document that should be consider as input for this process include but be not limit to : 
+  issue log . describe in section 4.3.3.3 . the issue log be use to see if any of the open issue have be update 
+ and necessitate an update to the risk register . 
+  lesson learn register . describe in section 4.4.3.1 . risk - relate lesson from early in the project can be 
+ apply to later phase in the project . 
+  risk register . describe in section 11.2.3.1 . the risk register have key input that include identify individual 
+ project risk , risk owner , agree - upon risk response , and specific implementation action . it may also provide 
+ other detail include control action for assess the effectiveness of response plan , symptom and warning 
+ sign of risk , residual and secondary risk , and a watch list of low - priority risk . 
+  risk report . describe in section 11.2.3.2 . the risk report include an assessment of the current overall project 
+ risk exposure as well as the agree - upon risk response strategy . it also describe the major individual risk with 
+ plan response and risk owner . 
+ ",issue log,"['project document', 'project document', 'project document update', 'project document', 'project document update', 'project document', 'project document update', 'project document', 'project document update', 'project document', 'project document update', 'project document update']",be,"['plan risk response', 'risk report', 'strategy for overall project risk']","['risk', 'assessment', 'assess', 'warning', 'project']"
+work performance datum,"describe in section 4.3.3.2 . work performance datum contain datum on project status such as risk response that 
+ have be implement , risk that have occur , risk that be active and those that have be close out . 
+ ",datum on project status,['work performance information'],have,"['datum gathering', 'datum gathering', 'datum gathering']","['datum', 'performance', 'section', 'risk', 'status']"
+work performance report,"describe in section 4 5.3.1 . work performance report provide information from performance measurement that 
+ can be analyze to provide project work performance information include variance analysis , earn value datum , and 
+ forecasting datum . this information could be relevant when monitor performance - relate risk . 
+ ",performance measurement,['work performance information'],provide,"['work performance datum', 'work performance report', 'datum analysis']","['performance', 'analysis', 'information', 'analyze', 'variance']"
+datum analysis,"datum analysis technique that can be use for this process include but be not limit to : 
+  technical performance analysis . technical performance analysis compare technical accomplishment during 
+ project execution to the schedule of technical achievement . it require the definition of objective , quantifiable 
+ measure of technical performance , which can be use to compare actual result against target . such technical 
+ performance measure may include weight , transaction time , number of deliver defect , storage capacity , 
+ etc . deviation can indicate the potential impact of threat or opportunity . 
+  reserve analysis . describe in section 7.2.2.6 . throughout execution of the project , some individual project 
+ risk may occur with positive or negative impact on budget or schedule contingency reserve . reserve analysis 
+ compare the amount of the contingency reserve remain to the amount of risk remain at any time in the 
+ project in order to determine if the remain reserve be adequate . this may be communicate use various 
+ graphical representation , include a burndown chart . 
+ ","objective , quantifiable","['datum analysis', 'datum analysis', 'datum analysis']",be,"['datum analysis', 'datum analysis', 'datum analysis']","['analysis', 'reserve', 'performance', 'contingency', 'datum']"
+audits,"describe in section 8.2.2.5 . risk audits be a type of audit that may be use to consider the effectiveness of the risk 
+ management process . the project manager be responsible for ensure that risk audits be perform at an appropriate 
+ frequency , as define in the project ’s risk management plan . risk audits may be include during routine project review 
+ meeting or may form part of a risk review meeting , or the team may choose to hold separate risk audit meeting . the 
+ format for the risk audit and its objective should be clearly define before the audit be conduct . 
+ ",risk audits,[],be,"['meeting', 'meeting', 'meeting']","['audits', 'audit', 'risk', 'management', 'review']"
+meeting,"meeting that can be use during this process include but be not limited to risk review . risk review be schedule 
+ regularly and should examine and document the effectiveness of risk response in deal with overall project risk 
+ and with identify individual project risk . risk review may also result in identification of new individual project risk , 
+ ( include secondary risk that arise from agree - upon risk response ) , reassessment of current risk , the closing of 
+ risk that be outdated , issue that have arise as the result of risk that have occur , and identification of lesson 
+ to be learn for implementation in ongoing phase in the current project or in similar project in the future . the risk 
+ review may be conduct as part of a periodic project status meeting or a dedicated risk review meeting may be hold , 
+ as specify in the risk management plan . 
+ ",risk review,"['meeting', 'meeting', 'meeting']",be,"['meeting', 'meeting', 'meeting']","['risk', 'meeting', 'project', 'management', 'review']"
+work performance information,"describe in section 4.5.1.3 . work performance information include information on how project risk management 
+ be perform by compare the individual risk that have occur with the expectation of how they would occur . this 
+ information indicate the effectiveness of the response planning and response implementation process . 
+ ",information on how project risk management,"['work performance datum', 'work performance report']",occur,"['work performance datum', 'work performance report', 'project management information system ( pmis )']","['performance', 'information', 'management', 'planning', 'effectiveness']"
+change request,"describe in section 4.3.3.4 . the monitor risk process may result in a change request to the cost and schedule 
+ baseline or other component of the project management plan . change request be process for review and 
+ disposition through the perform integrate change control process ( section 4.6 ) . 
+ change request can include recommend corrective and preventive action to address the current level of overall 
+ project risk or to address individual project risk . 
+ ","process for review and 
+ disposition through the perform integrate change control process","['change request', 'change request']",address,"['change request', 'change request', 'monitor risk']","['process', 'risk', 'monitor', 'change', 'review']"
+project management plan update,"any change to the project management plan go through the organization ’s change control process via a change 
+ request . this may affect any component of the project management plan . 
+ ","change 
+ request","['project management plan', 'project management plan', 'project management plan', 'project management plan', 'project management plan', 'project management plan update', 'project management plan', 'project management plan']",go,"['change request', 'change request', 'project management plan']","['change', 'management', 'plan', 'organization', 'project']"
+project document update,"project document that may be update as a result of carry out this process include but be not limit to : 
+  assumption log . describe in section 4.1.3.2 . during the monitor risk process , new assumption may be 
+ make , new constraint may be identify , and exist assumption or constraint may be revisit and change . 
+ the assumption log be update with this new information . 
+  issue log . describe in section 4.3.3.3 . where issue be identify as part of the monitor risk process , these 
+ be record in the issue log . 
+  lesson learn register . describe in section 4.4.3.1 . the lesson learn register be update with any risk- 
+ relate lesson learn during risk review so these can be use on later phase of the project or in future 
+ project . 
+  risk register . describe in section 11.2.3.1 . the risk register be update with information on individual project 
+ risk generate during the monitor risk process . this may include add new risk , update outdated risk or 
+ risk that be realize , update risk response , and so forth . 
+  risk report . describe in section 11.2.3.2 . as new information become available through the monitor risk 
+ process , the risk report be update to reflect the current status of major individual project risk and the current 
+ level of overall project risk . the risk report may also include detail of the top individual project risk , agreed- 
+ upon response and owner , and conclusion and recommendation . it may also include conclusion from risk 
+ audits on the effectiveness of the risk management process . 
+ ",assumption log,"['project document', 'project document', 'project document update', 'project document', 'project document update', 'project document', 'project document update', 'project document', 'project document update', 'project document', 'project document update', 'project document']",be,"['project document update', 'project document update', 'project document update']","['risk', 'lesson', 'audits', 'document', 'information']"

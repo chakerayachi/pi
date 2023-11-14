@@ -1,0 +1,118 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+
+/* body {
+    color: #4a4a4a;
+    background-color: #F5F5F5;
+}
+
+h1 {
+    color: #5C4B51;
+}
+
+h2 {
+    color: #825747;
+}
+
+.streamlit-button.primary-button {
+    background-color: #FFD97D;
+    color: #393232;
+}
+
+input {
+    border-color: #FFD97D;
+}
+
+[class^="stProgress"] > div > div > div {
+    background-color: #FFD97D;
+} */
+
+/* body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  margin: 0;
+  padding: 20px;
+}
+.stApp {
+  max-width: 800px;
+  margin: auto;
+}
+.stButton button {
+  background-color: #008cba;
+  color: white;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+.stButton button:hover {
+  background-color: #005f73;
+} */
+
+/* style.css */
+
+/* Body styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+  background-image: url("back.png"); /* Replace 'background_image.jpg' with your image file */
+  margin: 0;
+  padding: 0;
+}
+
+/* App container styles */
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  border-radius: 8px;
+}
+
+/* Title styles */
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #007bff;
+}
+
+/* Select box styles */
+.stSelectbox select {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  outline: none;
+  background-color: #f9f9f9;
+}
+
+/* Text input styles */
+.stTextInput input {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  outline: none;
+  background-color: #f9f9f9;
+  margin-bottom: 20px;
+}
+
+/* Button styles */
+.stButton button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 12px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s;
+}
+
+.stButton button:hover {
+  background-color: #0056b3;
+}
